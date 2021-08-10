@@ -1,0 +1,16 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<?Siebel-Property-Set EscapeNames="false"?>
+
+<SiebelMessage MessageId = "1-2R6E" IntObjectName = "Sample Service Request" MessageType = "Integration Object" IntObjectFormat = "Siebel Hierarchical">
+
+  <ListOfSampleServiceRequest>
+
+	<ServiceRequest>
+
+
+	</ServiceRequest>
+
+  </ListOfSampleServiceRequest>
+
+</SiebelMessage>
